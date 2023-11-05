@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="untitled8" path="topics/Ring%20Alarm%20Components.html"/>
+   <appContext helpID="untitled3" path="topics/Ring%20Alarm%20Home%20Setup.html"/>
+   <appContext helpID="ring_alarm_modes" path="topics/ring_alarm_modes.html"/>
+   <appContext helpID="untitled4"
+               path="topics/Setting%20Up%20Your%20Ring%20Account.html"/>
+   <appContext helpID="setting_up_your_base_station"
+               path="topics/setting_up_your_base_station.html"/>
+   <appContext helpID="set_up_assisted_monitoring"
+               path="topics/set_up_assisted_monitoring.html"/>
+   <appContext helpID="what_is_self_monitoring"
+               path="topics/what_is_self_monitoring.html"/>
+   <appContext helpID="set_up_your_alarm_devices"
+               path="topics/set_up_your_alarm_devices.html"/>
+   <appContext helpID="setting_up_the_range_extender"
+               path="topics/setting_up_the_range_extender.html"/>
+   <appContext helpID="setting_up_the_contact_sensor"
+               path="topics/setting_up_the_contact_sensor.html"/>
+   <appContext helpID="setting_up_your_keypad"
+               path="topics/setting_up_your_keypad.html"/>
+</map>
